@@ -2,7 +2,7 @@
 
 - 👀 **Interests**: Web development and machine learning.  
 - 🌱 **Currently Learning**: Python, Java and some low level programming.  
-- 💞️ **Looking to Collaborate**: On machine learning projects and front-end designs.  
+- 💞️ **Looking to Collaborate**: On machine learning and Web Dev projects.  
 - 📫 **Reach Me At**:  
-  - [X](https://x.com/tanmayss2005)
-  - [LinkedIn](https://www.linkedin.com/in/tanmay-shinde-8a13b6170/)
+  - [X](https://x.com/avg_enthusiast_)
+
